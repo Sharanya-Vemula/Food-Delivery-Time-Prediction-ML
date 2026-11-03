@@ -236,4 +236,4 @@ GitHub: https://github.com/Sharanya-Vemula
 
 ⭐ If you find this project useful, consider giving the repository a star!
 
-**Learning by building. Growing through experimentation. Turning data into meaningful solutions. **
+Learning by building. Growing through experimentation. Turning data into meaningful solutions.
